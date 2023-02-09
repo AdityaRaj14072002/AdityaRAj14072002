@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4E16AQFaTaR-1EkYDA/profile-displaybackgroundimage-shrink_200_800/0/1586129857378?e=2147483647&v=beta&t=fxSGJnigrGGsQjIYJ1m6DA3Jz0d83a6KhfnA1dfht20)
+![MasterHead](https://media.licdn.com/dms/image/C4E16AQFaTaR-1EkYDA/profile-displaybackgroundimage-shrink_200_800/0/1586129857378?e=2147483647&v=beta&t=fxSGJnigrGGsQjIYJ1m6DA3Jz0d83a6KhfnA1dfht20)
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
